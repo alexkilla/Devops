@@ -6,6 +6,10 @@ Taken from the SRE handbook:
 
 `One could equivalently view SRE as a specific implementation of DevOps with some idiosyncratic extensions`
 
+`class SRE implements Devops`
+
+If you think of DevOps like an interface in a programming language, class SRE implements DevOps. While the SRE program did not explicitly set out to satisfy the DevOps interface, both disciplines independently arrived at a similar set of conclusions.
+
 ## Definitions
 
 The official definition of DevOps is “a software engineering culture and practice, that aims at unifying software development and software operation.” The term was first coined by Andrew Shafer and Patrick Debois back in 2008.
